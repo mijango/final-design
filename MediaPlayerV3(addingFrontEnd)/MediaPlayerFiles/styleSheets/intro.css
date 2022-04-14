@@ -1,0 +1,72 @@
+
+
+
+  h1[type=yee]{  
+    position: absolute;
+width: 691px;
+height: 186px;
+left: 1000px;
+top: 45px;
+
+font-family: 'Times New Roman', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 107px;
+
+color: #ffffff;
+
+}
+
+h2[type = til]{ 
+  position: absolute;
+width: 1043px;
+height: 68px;
+left: 800px;
+top: 600px;
+
+font-family: 'Times New Roman', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #ffffff;
+   
+}
+h2[type = y1]{ 
+  position: absolute;
+width: 1043px;
+height: 68px;
+left: 800px;
+top: 400px;
+
+font-family: 'Times New Roman', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 85px;
+line-height: 44px;
+
+color: #ffffff;
+   
+}
+
+
+button[type = five]{ 
+  position: absolute;
+width: 163px;
+height: 73px;
+left: 1600px;
+top: 901px;
+
+background: #C4C4C4;
+}
+
+button[type = four]{ 
+  position: absolute;
+  width: 163px;
+  height: 73px;
+  left: 800px;
+  top: 901px;
+  
+}
